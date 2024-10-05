@@ -8,12 +8,6 @@ A frontend clone of the popular e-commerce website Myntra. This project is built
 - [Features](#features)
 - [Demo](#demo)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Project Structure](#project-structure)
-- [Screenshots](#screenshots)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
